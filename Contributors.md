@@ -1,3 +1,4 @@
+- [Cade Bickmore](https://github.com/cbikemore)
 - [Oliver Miller](https://github.com/Oliver-H-Miller)
 - [Lewis Shaw](https://github.com/iRuisu)
 - [Bao Tran](https://github.com/cyborg103)
@@ -205,7 +206,7 @@
 - [xribene](https://github.com/xribene)
 - [ArcticSniper]
 - [Angga Indriya Pamungkas](https://github.com/anggaip)
-- [Joaqu�n Pignol](https://github.com/joespi)
+- [Joaqu n Pignol](https://github.com/joespi)
 - [Srijan Manandhar](https://github.com/srijanss)
 - [Hakeem Davis](https://github.com/dearhakeemdavis)
 - [Kira](https://github.com/kiravia)
